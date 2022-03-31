@@ -1,5 +1,5 @@
 {
-  "name": "formapro/values",
+  "name": "niro/values",
   "type": "library",
   "description": "Alter ego objects. Highly efficient way of building models, api clients and so on",
 
@@ -12,10 +12,10 @@
     }
   ],
   "require": {
-    "php": "^7.1"
+    "php": "^7.1|^8.0"
   },
   "require-dev": {
-    "phpunit/phpunit": "^6"
+    "phpunit/phpunit": "^6|^8.0|^9.0"
   },
   "config": {
     "bin-dir": "bin"
